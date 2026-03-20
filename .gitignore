@@ -1,0 +1,18 @@
+#Secretos y Entorno
+.env
+config.ini
+aws_config.txt
+
+#Dependecias y Cache
+node_modules/
+venv/
+__pycache__/
+*.log
+
+#Claves y Certificados
+*.key
+*.pem
+
+#IDEs
+.vscode/
+.idea/
